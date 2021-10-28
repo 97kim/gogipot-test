@@ -2,7 +2,7 @@
 나는 어떤 유형의 사람일까?
 (심심풀이용,,)
 
-https://gogipot.netlify.app/
+https://kjkim.me/
 
 ![캡처](https://user-images.githubusercontent.com/64389162/126470616-45bfa946-2989-4658-9970-7bdc1f91b4c2.GIF)
 
