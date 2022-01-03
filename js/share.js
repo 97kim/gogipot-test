@@ -1,4 +1,4 @@
-const url = "https://gogipot.netlify.app/";
+const url = "https://kimkj.shop/";
 
 function setShare(){
     var resultImg = document.querySelector("#resultImg");
